@@ -1,0 +1,12 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = "kz.stqa.pft.sandbox.HomeWork1_1"
+
+repositories{
+mavenCentral()
+}
+
+dependencies{
+compile 'org.testng:testng:6.9.10'
+}
+

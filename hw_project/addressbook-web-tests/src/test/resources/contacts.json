@@ -1,0 +1,23 @@
+[
+  {
+    "first_name": "Имя 0",
+    "second_name": "Отчество 0",
+    "last_name": "Фамилия 0",
+    "phone": "123450",
+    "group": "test 0"
+  },
+  {
+    "first_name": "Имя 1",
+    "second_name": "Отчество 1",
+    "last_name": "Фамилия 1",
+    "phone": "123451",
+    "group": "test 1"
+  },
+  {
+    "first_name": "Имя 2",
+    "second_name": "Отчество 2",
+    "last_name": "Фамилия 2",
+    "phone": "123452",
+    "group": "test 2"
+  }
+]
